@@ -1,0 +1,1 @@
+<h1>Hello, this is huge success! My name is not <?= $_GET['name']?> :/ F* YEAH!! ;)</h1>
